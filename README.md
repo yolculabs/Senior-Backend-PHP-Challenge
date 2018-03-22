@@ -1,6 +1,6 @@
 # Senior-Backend-PHP-Challenge
 
-Senden temiz bir **Laravel** kurulumuna eklendiğinde çalışacak bir paket (kurulum için gereken artisan komutlarını da dökümante etmen gerekli), 5 ayrı php dosyasına da random ürün listesi eklenmiş json data istiyoruz.
+Senden temiz bir PHP kurulumuna eklendiğinde çalışacak bir paket, 5 ayrı php dosyasına da random ürün listesi eklenmiş json data istiyoruz.
 
 Bu paket temiz kurduğumuz yazılıma asgari olarak şu yapı ve tabloları ekleyecek:
 
@@ -49,4 +49,4 @@ name
 
 bu değişiklikleri yapmak için yukarıda listelenen şemaya **bazı kolonlar eklemeniz** ve Eloquent Modellerine **bazı methodlar eklemeniz gerekecek**
 
-Unit Testlerinin yazılması, laravel kod stilinin takip edilmesi, düzgün isimlendirme ve self-documenting kod yazımı artı puan olarak değerlendirilecektir. 
+Unit Testlerinin yazılması, PHP kod stilinin takip edilmesi, düzgün isimlendirme ve self-documenting kod yazımı artı puan olarak değerlendirilecektir. 
